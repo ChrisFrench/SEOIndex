@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="system" method="upgrade">
+    <name>System - SEO Index</name>
+    <author>Chris French - AmmoniteNetworks</author>
+    <creationDate>October 2010</creationDate>
+    <copyright>Copyright (C) 2010 BNR Branding. All rights reserved.</copyright>
+    <license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
+    <authorEmail>chris@ammonitenetworks.com</authorEmail>
+    <authorUrl>www.ammonitenetworks.com</authorUrl>
+    <version>1.0</version>
+    <description>This Plugin is very simple, it hides all your non menu items from being indexed by search engines.</description>
+    <files>
+        <filename plugin="seoindex">seoindex.php</filename>
+    </files>
+</install>
